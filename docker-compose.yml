@@ -19,7 +19,7 @@ services:
     depends_on:
       - db
     environment:
-      BOT_TOKEN: 8102068730:AAGFLI5vu0rCR_sCH0Y5a8nCjCkubkJ-Mms
+      BOT_TOKEN: 8103428361:AAGaw-4eDBUY4LDSUS6EwnbdP9BnZYFfTP0
       OWNER_ID: 7622191579
       DATABASE_USER: support_bot_user
       DATABASE_PASS: yourpassword
