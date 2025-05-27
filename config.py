@@ -1,6 +1,6 @@
 import os
 
-TOKEN = os.environ.get('BOT_TOKEN')
+TOKEN = 8103428361:AAGaw-4eDBUY4LDSUS6EwnbdP9BnZYFfTP0
 OWNER = int(os.environ.get('OWNER_ID'))
 DATABASE_USER = os.environ.get('DATABASE_USER')
 DATABASE_PASS = os.environ.get('DATABASE_PASS')
